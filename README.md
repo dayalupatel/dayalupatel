@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Developer;I+am+a+Software+Engineer;I+am+a+Full+Stack+Java+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Software+Developer...;I+am+a+Software+Engineer...;I+am+a+Full+Stack+Java+Developer...)](https://git.io/typing-svg)
 
 <!--
 - 🔭 I’m currently working on ...
